@@ -6,7 +6,23 @@
 </div>
 
 <div class="col-sm-6 radio-buttons-1">
-
+<label class="radio-inline">
+	<input type="radio" name="housetype" value="Duplex" checked="checked"> Duplex  </input>
+	</label>
+	<label class="radio-inline">
+	<input type="radio" name="housetype" value="house"> Apartment /Flat/House</input>
+	</label><label class="radio-inline">
+	<input type="radio" name="housetype" value="Duplex" checked="checked"> Duplex  </input>
+	</label>
+	<label class="radio-inline">
+	<input type="radio" name="housetype" value="house"> Apartment /Flat/House</input>
+	</label><label class="radio-inline">
+	<input type="radio" name="housetype" value="Duplex" checked="checked"> Duplex  </input>
+	</label>
+	<label class="radio-inline">
+	<input type="radio" name="housetype" value="house"> Apartment /Flat/House</input>
+	</label>
+	</label>
 	<label class="radio-inline">
 	<input type="radio" name="housetype" value="Duplex" checked="checked"> Duplex  </input>
 	</label>
