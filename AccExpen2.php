@@ -1,13 +1,18 @@
 <div class="container col-sm-12">
 <div class="container col-sm-12">
 	
-	<label><h2>Accommodation Expenditures</h2></label><br><br>
+	<label><h2>Accommodation Expenditures Change</h2></label><br><br>
 
 </div>
 
 <div class="col-sm-6 radio-buttons-1">
 
-	
+	<label class="radio-inline">
+	<input type="radio" name="housetype" value="Duplex" checked="checked"> Duplex  </input>
+	</label>
+	<label class="radio-inline">
+	<input type="radio" name="housetype" value="house"> Apartment /Flat/House</input>
+	</label>
 	<p><b>Type:</b></p>
 	<label class="radio-inline">
 	<input type="radio" name="housetype" value="Bungalow" checked="checked"> Bungalow  </input>
